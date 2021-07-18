@@ -1,5 +1,5 @@
 ---
-title: Yet Another Sample Page
+title: Yet Another Sample Pa
 published: true
 ---
 
